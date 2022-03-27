@@ -5,6 +5,16 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Singleton",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Creational/Singleton/bin/Debug/net6.0/Singleton.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Creational/Singleton",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
             "name": "Observer",
             "type": "coreclr",
             "request": "launch",

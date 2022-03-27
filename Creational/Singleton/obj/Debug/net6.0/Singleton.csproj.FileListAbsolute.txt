@@ -1,0 +1,15 @@
+/Users/borabilir/Repos/Design Patterns/Creational/Singleton/bin/Debug/net6.0/Singleton
+/Users/borabilir/Repos/Design Patterns/Creational/Singleton/bin/Debug/net6.0/Singleton.deps.json
+/Users/borabilir/Repos/Design Patterns/Creational/Singleton/bin/Debug/net6.0/Singleton.runtimeconfig.json
+/Users/borabilir/Repos/Design Patterns/Creational/Singleton/bin/Debug/net6.0/Singleton.dll
+/Users/borabilir/Repos/Design Patterns/Creational/Singleton/bin/Debug/net6.0/Singleton.pdb
+/Users/borabilir/Repos/Design Patterns/Creational/Singleton/obj/Debug/net6.0/Singleton.csproj.AssemblyReference.cache
+/Users/borabilir/Repos/Design Patterns/Creational/Singleton/obj/Debug/net6.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borabilir/Repos/Design Patterns/Creational/Singleton/obj/Debug/net6.0/Singleton.AssemblyInfoInputs.cache
+/Users/borabilir/Repos/Design Patterns/Creational/Singleton/obj/Debug/net6.0/Singleton.AssemblyInfo.cs
+/Users/borabilir/Repos/Design Patterns/Creational/Singleton/obj/Debug/net6.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/borabilir/Repos/Design Patterns/Creational/Singleton/obj/Debug/net6.0/Singleton.dll
+/Users/borabilir/Repos/Design Patterns/Creational/Singleton/obj/Debug/net6.0/refint/Singleton.dll
+/Users/borabilir/Repos/Design Patterns/Creational/Singleton/obj/Debug/net6.0/Singleton.pdb
+/Users/borabilir/Repos/Design Patterns/Creational/Singleton/obj/Debug/net6.0/Singleton.genruntimeconfig.cache
+/Users/borabilir/Repos/Design Patterns/Creational/Singleton/obj/Debug/net6.0/ref/Singleton.dll
