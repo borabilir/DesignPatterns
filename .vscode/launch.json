@@ -5,6 +5,16 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Observer",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Behavioral/Observer/bin/Debug/net6.0/Observer.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Behavioral/Observer",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
             "name": "Command",
             "type": "coreclr",
             "request": "launch",
