@@ -1,0 +1,15 @@
+/Users/borabilir/Repos/Design Patterns/Creational/Prototype/bin/Debug/net6.0/Prototype
+/Users/borabilir/Repos/Design Patterns/Creational/Prototype/bin/Debug/net6.0/Prototype.deps.json
+/Users/borabilir/Repos/Design Patterns/Creational/Prototype/bin/Debug/net6.0/Prototype.runtimeconfig.json
+/Users/borabilir/Repos/Design Patterns/Creational/Prototype/bin/Debug/net6.0/Prototype.dll
+/Users/borabilir/Repos/Design Patterns/Creational/Prototype/bin/Debug/net6.0/Prototype.pdb
+/Users/borabilir/Repos/Design Patterns/Creational/Prototype/obj/Debug/net6.0/Prototype.csproj.AssemblyReference.cache
+/Users/borabilir/Repos/Design Patterns/Creational/Prototype/obj/Debug/net6.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borabilir/Repos/Design Patterns/Creational/Prototype/obj/Debug/net6.0/Prototype.AssemblyInfoInputs.cache
+/Users/borabilir/Repos/Design Patterns/Creational/Prototype/obj/Debug/net6.0/Prototype.AssemblyInfo.cs
+/Users/borabilir/Repos/Design Patterns/Creational/Prototype/obj/Debug/net6.0/Prototype.csproj.CoreCompileInputs.cache
+/Users/borabilir/Repos/Design Patterns/Creational/Prototype/obj/Debug/net6.0/Prototype.dll
+/Users/borabilir/Repos/Design Patterns/Creational/Prototype/obj/Debug/net6.0/refint/Prototype.dll
+/Users/borabilir/Repos/Design Patterns/Creational/Prototype/obj/Debug/net6.0/Prototype.pdb
+/Users/borabilir/Repos/Design Patterns/Creational/Prototype/obj/Debug/net6.0/Prototype.genruntimeconfig.cache
+/Users/borabilir/Repos/Design Patterns/Creational/Prototype/obj/Debug/net6.0/ref/Prototype.dll

@@ -1,0 +1,15 @@
+/Users/borabilir/Repos/Design Patterns/Behavioral/Command/bin/Debug/net6.0/Command
+/Users/borabilir/Repos/Design Patterns/Behavioral/Command/bin/Debug/net6.0/Command.deps.json
+/Users/borabilir/Repos/Design Patterns/Behavioral/Command/bin/Debug/net6.0/Command.runtimeconfig.json
+/Users/borabilir/Repos/Design Patterns/Behavioral/Command/bin/Debug/net6.0/Command.dll
+/Users/borabilir/Repos/Design Patterns/Behavioral/Command/bin/Debug/net6.0/Command.pdb
+/Users/borabilir/Repos/Design Patterns/Behavioral/Command/obj/Debug/net6.0/Command.csproj.AssemblyReference.cache
+/Users/borabilir/Repos/Design Patterns/Behavioral/Command/obj/Debug/net6.0/Command.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borabilir/Repos/Design Patterns/Behavioral/Command/obj/Debug/net6.0/Command.AssemblyInfoInputs.cache
+/Users/borabilir/Repos/Design Patterns/Behavioral/Command/obj/Debug/net6.0/Command.AssemblyInfo.cs
+/Users/borabilir/Repos/Design Patterns/Behavioral/Command/obj/Debug/net6.0/Command.csproj.CoreCompileInputs.cache
+/Users/borabilir/Repos/Design Patterns/Behavioral/Command/obj/Debug/net6.0/Command.dll
+/Users/borabilir/Repos/Design Patterns/Behavioral/Command/obj/Debug/net6.0/refint/Command.dll
+/Users/borabilir/Repos/Design Patterns/Behavioral/Command/obj/Debug/net6.0/Command.pdb
+/Users/borabilir/Repos/Design Patterns/Behavioral/Command/obj/Debug/net6.0/Command.genruntimeconfig.cache
+/Users/borabilir/Repos/Design Patterns/Behavioral/Command/obj/Debug/net6.0/ref/Command.dll

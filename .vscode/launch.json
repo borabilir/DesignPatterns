@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Command",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Behavioral/Command/bin/Debug/net6.0/Command.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Behavioral/Command",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": "Flyweight",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Structural/Flyweight/bin/Debug/net6.0/Flyweight.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Structural/Flyweight",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": "Prototype",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Creational/Prototype/bin/Debug/net6.0/Prototype.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Creational/Prototype",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
